@@ -1,0 +1,26 @@
+* {
+  background-color: #00bfa5;
+}
+
+#connexion {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #00bfa5;
+  background-image: url("../image/beaustart.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+
+h1 {
+  color: white;
+}
+
+/*# sourceMappingURL=app.css.map */
